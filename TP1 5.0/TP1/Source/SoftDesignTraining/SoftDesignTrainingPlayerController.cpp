@@ -14,7 +14,7 @@ ASoftDesignTrainingPlayerController::ASoftDesignTrainingPlayerController()
 void ASoftDesignTrainingPlayerController::SetupInputComponent()
 {
     Super::SetupInputComponent();
-
+    GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("I am moving"));
     InputComponent->BindAxis("MoveForward", this, &ASoftDesignTrainingPlayerController::MoveForward);
     InputComponent->BindAxis("MoveRight", this, &ASoftDesignTrainingPlayerController::MoveRight);
 }

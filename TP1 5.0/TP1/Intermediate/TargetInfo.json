@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SoftDesignTraining",
+			"Path": "C:\\Users\\Zking\\OneDrive\\Desktop\\LOG8235\\TP1 5.0\\TP1\\Source\\SoftDesignTraining.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SoftDesignTrainingEditor",
+			"Path": "C:\\Users\\Zking\\OneDrive\\Desktop\\LOG8235\\TP1 5.0\\TP1\\Source\\SoftDesignTrainingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

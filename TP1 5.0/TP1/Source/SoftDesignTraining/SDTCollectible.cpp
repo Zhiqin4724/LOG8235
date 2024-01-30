@@ -16,7 +16,7 @@ void ASDTCollectible::BeginPlay()
 void ASDTCollectible::Collect()
 {
     GetWorld()->GetTimerManager().SetTimer(m_CollectCooldownTimer, this, &ASDTCollectible::OnCooldownDone, m_CollectCooldownDuration, false);
-
+    GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Collected"));
     GetStaticMeshComponent()->SetVisibility(false);
 }
 

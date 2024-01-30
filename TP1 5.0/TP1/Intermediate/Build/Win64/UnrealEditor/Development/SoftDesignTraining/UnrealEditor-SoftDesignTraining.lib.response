@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SoftDesignTraining.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\SoftDesignTrainingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SDTAIController.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SDTCollectible.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SDTUtils.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTraining.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingCharacter.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingGameMode.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingMainCharacter.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingPlayerController.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SDTAIController.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SDTCollectible.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTraining.init.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingCharacter.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingGameMode.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingMainCharacter.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\SoftDesignTrainingPlayerController.gen.cpp.obj"
+"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\Default.rc2.res"
+/OUT:"C:\Users\Zking\OneDrive\Desktop\LOG8235\TP1 5.0\TP1\Intermediate\Build\Win64\UnrealEditor\Development\SoftDesignTraining\UnrealEditor-SoftDesignTraining.lib"

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zking\\onedrive\\desktop\\log8235\\tp1 5.0\\tp1\\intermediate\\build\\win64\\unrealeditor\\inc\\softdesigntraining\\softdesigntraining.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zking\\onedrive\\desktop\\log8235\\tp1 5.0\\tp1\\intermediate\\build\\win64\\softdesigntrainingeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\zking\\onedrive\\desktop\\log8235\\tp1 5.0\\tp1\\intermediate\\build\\win64\\unrealeditor\\development\\softdesigntraining\\definitions.softdesigntraining.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
